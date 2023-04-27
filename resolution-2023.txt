@@ -3,3 +3,4 @@ My resolution i 2023
 - learn more about basic html, css and javascript
 - make some simple project and upload source code on github
 - learn github
+- try to learn backand like node.js
